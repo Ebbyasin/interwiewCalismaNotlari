@@ -1,0 +1,357 @@
+INTERVIEW PREPLERDE NELER YAPACAĞIZ
+Softskill
+Java
+Selenium
+SQL
+Mock Interviewler
+
+MÜLAKATLARA BAKIS AÇIMIZ NASIL OLMALI
+Dogal ve içten davranmalıyız, ciddiye almalıyız ama Muhabereye gidiyor gibi olmamalıyız
+Bu doğallığı sağlamak icin kendimizi nasıl ifade edeceğiz, biz kimiz, biz neler yaptık, test alanında nelerle mesgul oduk… biz karsı tarafa kendimizi nasıl ifade edeceğimizi kurgulamalıyız.
+Hayatımızdan bahsederken aralarda bosluk olmaması icin neler yapmalıyız
+-zoom açın kendinizi kaydedin ve izleyip, kenidiniz icin simdi oldu dediginizde karsı tarafta simdi oldu diyecektir
+-sadece bizim onlara ihtiyacımız yok onlarıda bize ihtiyacı var o yüzden çok ezilip büzülmeye gerek yok.
+
+İLK SORU – KENDİNİZDEN BAHSEDERMİSİNİZ
+Bu durumu karsı tarafa nail yansıtmamzı gerekiyro. 
+Tekrarı olmayan tek sey ilk izlenimdir.
+Bu sorunun sağlam olması önemlidir,
+     1-çok detay vermeyin
+      2-özgeçmisinizde yer alan her seyi karsı tarafa anlatmaya çalısmayın
+     Surada doğdum, burada okudum, böyle yaptım vs. Suralarda çalıstım diye tek tek anlatmamak bununyerine farklı sektörlerde 5 sene çalıstım demek. 
+     3-Kişisel ve özel bilgilere yer vermeyin
+      Evliyim, sukadar cocugum var, dini inanıs vs gibi özele inmiyoruz.
+
+Bu sorulara 3 ana baslık sunlar olabilir
+1-Siz kimsiniz
+Kendinizi profesyonel bir sekilde tanıtacak birkaç cümle kullanilabilir
+Bem Ahmet, x üniverstesi y fakültesinden mezunum
+Bir süre mezuniyetimle alakalı isler yaptıktan sora, gerek IT dünyasına ilgim gerekse IT dünyasının avantajları sebebi ile bu alana yöneldim.bu alanı çokta sevdim, X zamandır ilgileniyorum
+
+2-Potansiyel hikayeniz
+Öne çıkan yetenekleriniz, basarılarınız, çalıstığınızı kurumlara katkılarınız
+Çok detaycı oldugumu düsünüyorum, bu durum beni bazen çok yorsa bile test senaryoları gelistirmemde bana büyük katkı sağlıyor. 
+Takım içi iletisime v eis bölümüne çok önem veriyorum. Takım içinde arkadaslarıma katkı sağlamaktan ve onların da tecrübelerinde faydalanmaktan büyük mutluluk duyuyorum. Böylece kendi kisisel yeteneklerimizi gelistirirken sirkete de büyük katkı sağlayabileceğimiz düsünüyorum.
+
+3-Neden burada çalısmak istiyorsunuz
+Bui s görüsmesi beni heyecenlandırdı, is gereksinimlerinizin benim skillerime uygun oldugunu düsünüyorum. Siz de uygun görürseniz sizinle çalısmaktan mutluluk duyarım.
+
+
+SDLC NEDİR
+Bu soru geldiginde teknik ifade ile anlatmak cok uygun olmayailir.
+Bu kisi çalısmıs teorik olarak bana söylüyor gibi bir izlenim verebilir
+Ancak vermemiz gereken izlenim u kisi SDLC yi biliyor, bunun ne oldugunun farkında, o yapının içinde olduğumuzdur
+Ilk olarak kısa bir Teknik tanım veremiz gerekir
+Bir uygulamanın kullanıcı beklentilerini karsılayacak bir sekilde piyasaya sürülebilmesi icin takip edilen yazılım yasam döngüsüdür.
+Sonrasında kendimizi SDLC nin iceriinde ifade etmemiz gerekiyor
+Ortak bir amaç çercevseinde toplanmıs takım üyeleri ile gerçekletirilen bir takım çalısmasıdır.
+Her asamada ekibinbaksa bir üyesi yer alır, bu ekip kendi icinde koordinasyonu  birlikte yaptığı toplantılarla ve proje takip programları ile sağlar, kullanilan yazılım gelistirme metodolojisine göre işleyiş ve toplantılarda farklılıklar olabilir. Bem agile a hakimim. Dilerseniz bu konuda detay verebilir.
+
+Bem agile ile çalıstım. Bizim takimimiz su sekildeydi diyip oradaki toplantılara girebilir, kimelrin oldugundan bahsedebilirsiniz. 
+
+
+TAKIM YAPINIZDAN BİRAZ BAHSEDERMİSİNİZ
+Scrum da max 10 kisi olunuyor, buna bağlı olarak bir cevap verilebiir
+Senaryo 1:
+Bizim takımımız 10 kisiden olusuyordu, bir PO, bir SM ve 6 dev 2qa olarak çalaıyorduk, Agile de scrum ile çalısıyonduk, sprintler 2 haftalıktı, sprint baslangıcında sprint planning, sprint boyunca her sabah daily scrum, sprint sonlarında ise sprint review ve retro toplantıları ile iletisim halinde oluyorduk. Ekip full remote bir ekipoldugu icin gün iceriinde ihtiyaç duydukça birbirimizle iletisim kurulabiliyorduk
+
+Senorya 2; kurs sonunda 
+Bizim takımımız birqa ekibi idi. Ekipte 4 tester calııyorduk PO ve SM da toplantılarımıza dahil oluyordu. Developerların ise kendi arasında bir takımı vardı. Aradaki iletisimi jira ve arada yaptığımız ortak toplantılarla sağlıyorduk.
+
+
+TESTİNG NEDEN ÖNEMLİ
+Hatasiz ve kullanici dostu uygulama olusturmak icin
+Son kullanıcı ve müşteiyi memnun etmek için
+Yüksek kaliteli ürünler olusturmak için
+PEKİ SIFIR BUG MÜMKÜNMÜDÜR
+Mümkün değildir ancak sıfıra yaklasmak önemlidir.
+
+
+BİR TESTIRIN ANA SORUMLULUGU NEDİR
+Hatayı em erken sekilde bulur ve hatanın düzeltildiginden emin olur
+Yukarıdaki açıkladığımız durum 
+Kısaca create value diyebiliriz(değer olusturmak)
+
+MANUEL TEST VE OTOMASYON TEST
+Manuel test testerlar icin temel olan aktivitedir.
+Uygulama fonksiyonları hatadan arındırılana kadar manuel olarak test edilir
+Biz hatalardan arındırana kadar Manuel test ediyoruz.  Ürün stabil hale gelene kadar Manuel test yapmamız gerekir. 
+Artık üzerine yeni eklemeler yapılmayacaksa otomayon smoke testlerle dökebilir.
+Yani aynı fonksiyonun defalarca test edileceği durumda zaman kazanmak adına testler otomasyona dökülür.
+
+TUM TESTLERİ OTOMAYONA DÖKEBİLİRMİYİZ
+Captcha uygulamaları, 
+Grafik ve resimler 
+Tasarımsal hatalar otomasyona dökülemezler.
+Bunlar teknik olarak otomasyona dökemediklerimiz
+Not: bunların dısında bazı fonksiyonlar otomasyona dökülebilmesine rağmen otomasyon tercih edilmez. Bunun sebebi fonksiyonun dinamik/ değisken olması ya da ürünün gelistirme asamasında olmasından kaynaklanır.
+
+TEST CASELERİ NASIL YAZARSINIZ 
+1-Requirement : gereksinimleri çok iyi anlarım
+2- Acceptance Criteri: Kabul kriterlerine dikkat ederim
+3- Kara kutu test teknikleri : mümkün oldugunca genis bir alanı kapsayacak min sayida test case yazmak için test tekniklerini kullanirim
+
+NE GİBİ TEKNİKLER KULLANİYORSUNUZ ?
+1-Sınır değer analizi
+2-Karar tablosu testi
+3-Denklik Paylarına ayırma
+4-Kullanim durum senaryosu testi
+5-Durum geçis testi
+
+TEST ORTAMLARINIZ NELERDİR
+Testlerinizi nerelerde çalısıyorsunuz
+1-Dev Enviroment : 
+2-QA Enviroment
+3-Stage
+4-Prod envoriment
+developerlar dev enviromenti kullanır. Ben testlerimi qa enviromentta gerçeklistiriyordum. Ben testlerimi tamamladıktan sonra uygulama buglarıdan arındırıldığında uygulama Stage ortamına aktarılır. Burası birebir canlı testidir. En son prod env aktarılır, son kullanıcının kullanıldığı ortamdır.
+Bu ortamları kim olusturuyor, ortamları olusturmak DEVOps un sorumluluguydu, kendisi hazırlıyordu biz sadece kullanıyorduk diyeceğiz. 
+
+TEST EXECUTION İSLEMİ
+Testlerini nasıl run ediyordunuz, nasıl çalısıtırıyordunuz diye sorulabilir
+Iki türlü exécution dan bahsedebiiriz
+Manuel ve otomasyon testleri 
+Manuel yürütülen testler
+Test takibi   exel  ile yapılıyor olabilir
+Test takibi jira ile takip ediliyor olabilir
+
+Otomasyon testleri  için 
+Testler localde koşulur. 
+Yani selenium ile test ediyorsunuz testleri run ediyorsunuz, kendi bilgisaarınızda çalıstırdığınız testler localde olan testlerdir. Bir problem yoksa kodları github a gönderidiniz. Daha sora bu kodlar bulutta veya bir programda çalıstırılabilir (jankins) devops ki mise o kurar. 
+Testler sunucu üzerinde yada bulutta Jenkins aracılığı ile koşulabilir. Bu kodlar github dan entegre edilmis olur. 
+
+Jenkins in söyle bir özelligi de var
+Jirada test executionlarınızı olusturdunuz. Jenkins ile birbirine entegre edip orada isaretlemeleri yapabiliriniz
+
+NEDEN QA IHTİYAC VARDIR?
+Developer kodunu nasıl teste der.
+White Box test yapar.
+Bakıs açısı kodun davranısına odaklıdır. Yakın körlüğü yasayabilir 
+Testerlar tamamen kullanıcı bakıs açısını baz alarak testler yaparlar. Blackbox test yaparlar. 
+Tamamen gereksinim temelli test yaparlar. 
+
+Örneğin yasınız sorusuna developer numeric girer ancak kullanıcı yazı ile de yirmi yazabilir o yüzden bunlara karsı da programın hazır olması gereklidir. Eğer buraya int olmayan bir değer girilir ise kullanıcıya söyle bir mesaj ver diyerek kullanıcıya bu hatayı handle edebilirler. 
+
+
+
+NE TÜR TESTLER YAPIYROSUNUZ
+Öncelikle UI ve backend tea pi ve data base testleri yapabiliyorum
+Integration smoke, regression E2E  testelri kosuyorum
+Bu testleri manuel de gerçeklestirebiirm, otomayonla gerçeklestirebilirim diyebiliriz
+
+BU TÜR TESTLERE ÖRNEKLER VEREBİLİRMİSİNİZ
+Bizim için kritik öneme sahip testelri Smoke tetyapıyoruz, mesela login testleri
+Bu testler hergün çalıstırılır.mesela para transferi gibi
+
+Regrassion testi: tüm testlerimizi toplu bir sekilde çalıstırmayı sağlarız böylece modüllerin birbiri ile etki edip etmedigini test etmis oluruz.
+
+Integration test, mesela kayıt testleri, sifre grime, kullanici adı grime gibi birbiriile uyumlu çalısan testlerdir4
+E2E 
+Hem UI, Hem Api de çalıstığını kontrol ettim gibi 	
+
+
+
+BİR TOST MAKİNESİNİ NASIL TEST EDERSİNİZ
+    1- Bir ürünün kalitesi onun için hazırlanan dökümana göre değerlendirilir.
+    2- O zaman benim için req o ürünün kullanım klavuzu ve yazılan özelliklerdir
+    3- O ürün özelliklerien bakıp ürünü kullandığımızda o özelliklere göre doğru sonucu veriyorsa o ürün kaliteli üründür.
+Örneğin ürün üzerinde tost makinesının plaka kalınlığı 1 mm olarak belirtilmişse diğer makinaların 5 mm bile olsa bu ürüne kalitesiz denemez.
+Yani müşteriye belirtilen özellikelri kapsıyor olup olmadığı kalitesini belirtir.
+Benim bekledigim değil ürün üzerinde vadedilen ne ise ona göre test etmem gerekir.
+
+
+WHITE BOX VS BLACK BOX
+WB: Developlelar yapar. Kodların üzerinde yapılan testtir. Unit test buna örnektir
+BB : kutunun içerisinin görülmedigini düsünün kodlar ile ilgili birseyiniz yok, expected beklenen ile actual gerçeklesen birbirien uyuyorsa bu black box testtir. Test mühendisleri tarafından yapılır. Kodun ne oldugunun hiçbir önemi yok. 
+Validation ile Verification arasındaki fark nedir
+BB : Validation için kullanılır
+WB : Verification icin kullanilir. Developerlar yaparlar
+
+
+DEFECT ILE BUG ARASINDAKİ FARK NEDİR
+DEFECT ürünün gelistirme asamasında karsılastırılan hatalardır.  canlıya cıkmadan gelistirme asamasında bulunan hatalardar
+BUG ise ürün gelistirildikten sonra karsılasılan hatalardır. Ürün canlıya cıktıktan sonra da karsılasılailir
+FAILEr da bu hataların ortaya cıkardığı sonuclardır
+
+BİR BUG İLE KARSILASILDIĞINDA
+Önce emin olmamız lazım, bunun icin testimizi tekrarlamalı gerekirse baska tester var ise onun fikrini almamzıda fayda a
+Eğer developerlar ile aynı ortamda çalısıılıyorsa durmdan haberdar edilebilir
+Bug olduguu ya da önemsiz bir durum oldugunu ifade edebilir. 
+Eğer bug oldugu konusuda emin olunmussa jira üzerinden bug ticket açılır ve ilgili kisiye assign edilir.
+Bu islemleri genelde tester ekibinin lideri yapar.  
+
+ZAYIF YONLERİNİZDEN BAHSEDERMİSİNİZ
+Zayıf yönlerimizi karsı tarafa doğrudan zayif gibigöstermek eyrine olumlukısmına dadeğinmek gerekiyor
+SENARYO 1:
+İsini asırı sahiplenenbiriyim,bu isverenaçısından olumlu olabiliyorken, kendimi fazlaca yormama sebep oluyor
+SENARYO 2
+MÜkemmeliyetçi ve detaycı biriyim bu temiz bir iş çıkarmama sebepolsa da bazen beni yavaslatabiliyor
+Kendimize inanarak ve güvenerek söyleyeceğiz, antipatik olmayacağız
+
+GÜCLÜ YONLERİNİZDEN BAHSEDERMİSİNİZ
+STAR TECNİGİ
+Durum, görev, actions, result 
+Yani bir olayı anlatırken, ne oldu nasıl yaptığınız sorasıda ne ile karsılastınız
+Öğrenmeyi cok seviyorum, günc eli takip etmeyi yaptığım islerde güncel toolları kullanmayı tercih ederim. Değisikliklere cok kolay adapte olurum. Değisikliklere kolaylıkla adapte olurum.
+
+Gercekci olmanız lazım. Hazırlandığımız seylerin altını temellendirmemiz gerekir, olayımızı hikayelestirmeliyiz. 
+
+
+TEST HİYERARŞİSİ YA DA TEST PİRAMİDİ HAKKINDA NE BULUYORSUNUZ
+İkisi aynı seydir.
+Testlerin hangi sıraya göre yapılacağını ifade eder. 
+Bu aşamalar 
+Developerlar kodunu yazdı ilk olarak
+UNIT TEST yapılır
+Daha s onra Unitteki kucuk testler birlestirilir ve 
+INTEGRATION TEST yapılır 
+system testeri E2E VE UI TESTLERİ yapılır 
+Entegrasyon testlerini yaptıktan sonra
+UAT TEST yapılır
+Çalıısıyorsa canlıya alınır. 
+
+Entegrasyon testleri bir araya gelip günlük calıstırıldığında buna Smoke test diyoruz.
+
+
+VERILEN TASK İ ZAMANINDA BİTİREMEDİGİNDE NE YAPARSIN?
+Bir bankanın bir uygulamasında calistiginizi varsayın, kredi kartları ile ödeme noktasıdasınız, kredi kartı ile ödeme merkezine ulasamadığınızı düsünün kodla, teskiniz buydu ne yapacaksınız? 
+Bunu bitiremediginizi sprintin agile in hangi aşamasında bildirirsiniz. 
+Farklı biririnn bir problem olmustur, assign edilen is dısında is gelmis olabilir bu bir sebeptir. 
+Bizim dısımızda gelismis bir requirement problem olabilir. Developer buna göre kodunu yazacak biz test edeceğiz diye düsündüğümüzde bu hiyerarside bir aksama oldugunda zamanında yetistiremeyebiliriz
+Öncelikle neden yetistiremedigimize dair bir hazırlık yapmak lazım bunu team lead ve proje yöneticimizle paylasmamız gerekiyor. Bunu paylasırken ben yetistiremedim diye değil nedenlerini belirterek paylasmalıyız
+
+
+VERİLEN TASK İ EN İYİ SEKİLDE ANLAMAK İCİN NE YAPARSİNİZ
+Taskleri ne zaman görürüz, sprint planning de görürüz, burada planlamak icin task I cok iyi anlamamız gerekir. Bu taski iyi anlamak icin ne yapıyorduk, taskleri grooming toplantılarında görüsürüz bu toplantı taskleri detaylındırır, anlamaya calısırız. Bütün ekibin, o isi anlaması icin yapılan bir toplantıdır. Yeni ismi ile refinder deniyor (hikayelestirme, planı anlama)
+Toplantılar: daily, retro, planning, grooming
+Grooming her zaman yapılmak zorunda değildir. 
+
+BİR TESTİN TAMAMLANDIĞINA VE YETERLİ OLDUGUNA NASIL KARAR VERİRSİNİZ
+Definition of done
+Bir testin tamamlandığına bu tanım ile karar veririz. Peki bu yaptığıımız testin yeterli olduğuna nasıl karar veririz.
+Testin tamamlanması kesinlikle tek basımıza karar vereceğiimz bir süreç değil. Biz testlerimizi gerçekleştirmişizdir ve passed olmuştur ama kafamıza göre gidip done a atamayız. Done a atmadan önce tesitn tamamlandığını belirlememiz lazım. Bunun için req. Leri göz önünde bulundurarark ilgili test caseleri yazıoyuz ve bu caseleri tüm durumları karşılayacak sekilde yapıyoruz. Testlerin tamamlanmasında DOD tanımı bizim için önemlidir bu tanıma uyuyorsa test lead ve PO nun da onayı ile test işlemini sonlandırırım. 
+Bu kadar test case yaptım bunların hepsini çalıştırdım. Bir tanesi hata oldu diğerleri passed oldu diye PO nun da onayına sunup işlemi sonlandırırım. 
+O zaman bu kişi size bunları sorabilir.demekki verdiğiniz her cevapta ağızınızdan cıkan herseye hakim olmanız lazım Etkin bir sekilde kullanabiliyorum gibi etkin bir cevap vermeniz gerekiyor
+
+
+
+JAVANIZI PUANLARMISINIZ
+Puanlamak yerine size neleri kullanabildiğimi söyleyebilirim
+Ben 
+OOP Concept
+OOP
+1-Inheritance(miras) parent-childs tekrara düsen kodlar için, extend ile parent a ulaşırız. 
+2-Encapsulation (data hiding) kısıtlıyoruz, değiştirilmesini veya veri alınmasını istemediğimiz seyleri kısıtlamak gibi, get ve set methodları ile yaparız. Öncelikle private değişkenlerimi oluştururum sora getter setterlarımı oluştururum daha sora değer aktarabilmek için constractor oluştururum parametreli yada parametresiz. Son olarak to string methodu generate ederiz. Bunu nerede kullanacağız, API testlerinde pojo classları oluşturacağız ve bu testleri encapsulation yapacağız yani encapsulation=pojo class.. 
+3-Abstraction (soyutlama)
+4-Polymorfizm (cok biçimlilik)
+Overriding ve overloading
+Farklı nesnelerin değişik biçimlere sokularak kullanilması. 
+
+DATA STRUCTURE
+İçerisinde bilgi data saklayabildiğimiz yapılar.
+Primitive (8 tane, byte, short, int, long, char, boolean, double, float)
+Non Primitive 
+String, Wrapper Class(Integer, Byte), Collelction(list,array,set,queue,deque, linkedlist), Map
+
+
+STRING MANIPULATION
+Stringler üzeride işlemler yapabilmek için kullandığmıız methodlar
+(contains, charAt, indexof, uppercase, gibi)
+String üzeride nasıl bir manipülasyona gihtiyacımız olabilir, neden ihtiyacımız olsun
+Mesela casede gelen sonuçların unu içerdiğini kontrol edin, sonuçları alır contains ile içine bakarız
+Veya ödeme yaptaki toplamda esit olduğunu kontrol edin o zaman equals ile kontrol ederkiz. 
+EXEPTIONS
+Exeption ve eror olayı var
+Bu ikisi arasında nasıl bir fark vardır. 
+Exceptions: check exceptions CTE ,uncheck exceptions RTE, yanlış koddan kaynaklanan hatalardır. 
+Eror: hafıza ile ilgilihatalar errordur , sistem kaynaklarının eksikligi nedeniyle ortaya çıkar, bunları handle edemeyiz 
+
+BİRDEN FAZLA EXCEPTIONS I NASIL HANDLE EDERİZ
+Bu durumlarda pespese try catch kullanırız veya nested try catch kullanırız.
+
+FINALLY NEDİR
+Her zaman try catch te hata olsada olmasada  sonunda calısır 
+Finally block nedir
+Finally block java exception handling için kullanilir. Finally block u sadece try ile veya try catch ile birlikte kullanabiiriz. Finally block içindeki code her z aman calısır. 
+
+Finally block un calısmadığı zaanlar hangileridir
+System exit uygulanmış ise yani sistem hataya düşmüş ve java calısmayı durdurmuş ise finally block çalışmaz. 
+OutofMemoryError alındığında da çalışmaz yani heap hafizası dolu olduğu zaman. 
+
+
+Int ve Integer farkı nedir? Integer neden kulaniriz
+İntprimitive
+Integernonprimitive(wrapper class)
+Wrapper class primitive bir data typın yanına methodlar eklemişlerdir int ınteger olduğunda methodlar uygulayabiliriz.
+
+valueOf() methodu bir String’i Wrapper a cevirir.
+ParseInt() int e ceviren wrapper primitive inte cevirir. 
+
+ACCESS MODIFIER NEDİR
+Erişim düzenleyicilerdir
+Public: her yerden erisilebilir
+privite:sadece bulunduğu classtan ulasilir.
+protected: bulunduğu  package dan ve kendisine extend etmiş olan child classlarda ulasilir.. 
+default: kendisi atar, aynı package içerisinden ulasilir. 
+
+
+METHOD OVERLOADING METHOD OVERRIDING NEDİR
+Overloading: methodu aynı olacak ama signiture ı (parametreler) farklı olacak
+Substring de tek parametre ile de kullanılabilir veya iki parametre ile de kullanılabilir. 
+Assert iki parametre ile de kullanılabilir uc parametre ilede kullanılabilir. 
+
+Overriding: method adı, method signiture (parametreler) ı aynı ama body değişiyor.
+Overloading aynı calss içerisinde gerçekleştirilirken, overriding aralarında inheritance relationship olan iki farklı class arasında gerçekleştirilir.
+
+Static, private ve final methodlar override edilemezler. Ancak overload edilebilirler
+Overload methodlarda return type aynı yada farklı olabilirler ancak override da return type aynı olmalıdır. 
+
+CONSTRUCTOR OVERLOADING NE DEMEK
+Constructor: oluşturulan classların object olarak tanımlanması durumuda proje dosyasının alt yapısını hazırlayan, kurucu rol üstlenerek cesitli ilk işlemleri gerçekleştiren kullanılan sınıf yapısı ile aynı isme sahip olan geriye değer döndürmeyen özel metot yapılarıdır.
+Constructor overloading ise constructorın aynı class içerisinde birden fazla sekilde tanımlanmasıdır.
+
+
+COLLECTIONSLARDAN BAHSEDERMISINIZ
+Bilgi depolarız. Bir veri yığını aktarırırz değişkene tek bir değer aktarabilirken Collectionlara bir veri yığını aktarabiliriz
+List, Set , Queue, Maplerde collection yapısı içerisinde tanımlanıyorlar. 
+Map lerde de veri yığını tutabiliyoruz ama Collectionlardan farklıdır. 
+
+List: tanımlanan değerleri hafızasında sıralı bir sekilde tutuyordu, tekrarlanan değer aamaları yapabilir
+Set: tekrarlanana değerleri tutamaz, 
+Queue: kuyruk anlamına gelmektedir. İlk atanan değer her zaman ilk olarak çıkar, bu yapısı ile FIFO (First in first out) 
+
+Selenium da listleri cok kullanacağız API testinde hep  Mapleri cok kullanacağız. Keyvalue.
+
+
+TYPE CASTING NEDİR
+Auto widenin ve explicit narrowing
+Autowidening: zkucuk data tipini buyuk data tipinin içine yerleştirmek
+Explicit Narrowing : buyuk data tipini kucuk data tipine cevir. Bunu yapmak için javaya bilgi vermek gerekiyor. int newpop=(int)population gibi neye çevirmek istiyorsak önüne onu yazıyoru. Veri kayıpları yasayabilmemiz mümkün
+
+Mapleri listlere listleri maplere bol bol casting işlemi API de yapacağız
+
+STATIC KEYWORD NEDIR
+Değişkenleri, methodları ve static block kullanabiliyoruz
+Degisken olan static ne idi: bir class ta farklı farklı methodlarda kullanailiyoruz, herkes için birtanedir. Her yerden ulaşılır değişiklikler saklı kalır
+Static method: static olmayan giremez. 
+Static Block: herseyden önce calısan kısımdır. İlk yapmamız gereken seyleri static block içine tanımlıyorduk, main methoddan ve constructorlardan önce çalışıyor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
